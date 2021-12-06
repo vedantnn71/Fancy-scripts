@@ -11,14 +11,14 @@ $ cp -r ./scripts/* ~/.local/bin
 ## Screenshots
 ### Gradient list
 `gls` - this command is dependent on [exa](https://github.com/ogham/exa).
-![Gradient list](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/glist.png)
+![Gradient list](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gls.png)
 
 ### Gradient Cat
 `gcat` - this command is dependent on [lolcat]()
 ![Gradient cat](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gcat.png)
 ### Gradient Top
 `gtop` - this command is dependent on [GNU top](https://www.gnu.org/software/coreutils/manual/html_node/index.html)
-![Gradient top](https://github.com/vedantnn71/fancy-scripts/scrots/gtop.png)
+![Gradient top](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gtop.png)
 ### Gradient tree
 `gtree` - this command is dependent on `tree` program.![Gradient tree](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gtree.png)
 ### Gradient Fetch

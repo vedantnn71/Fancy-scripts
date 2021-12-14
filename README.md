@@ -11,19 +11,19 @@ $ cp -r ./scripts/* ~/.local/bin
 ## Screenshots
 ### Gradient list
 `gls` - this command is dependent on [exa](https://github.com/ogham/exa).
-![Gradient list](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gls.png)
+![Gradient list](./scrots/gls.png)
 
 ### Gradient Cat
 `gcat` - this command is dependent on [lolcat]()
-![Gradient cat](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gcat.png)
+![Gradient cat](./scrots/gcat.png)
 ### Gradient Top
 `gtop` - this command is dependent on [GNU top](https://www.gnu.org/software/coreutils/manual/html_node/index.html)
-![Gradient top](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gtop.png)
+![Gradient top](./scrots/gtop.png)
 ### Gradient tree
-`gtree` - this command is dependent on `tree` program.![Gradient tree](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gtree.png)
+`gtree` - this command is dependent on `tree` program.![Gradient tree](./scrots/gtree.png)
 ### Gradient Fetch
 `gfetch` - this command is dependent on `tree` program.
-![Gradient fetch](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gfetch.png)
+![Gradient fetch](./scrots/gfetch.png)
 
-![Gradient fetch full](https://github.com/vedantnn71/fancy-scripts/raw/main/scrots/gfetch-full.png)
+![Gradient fetch full](./scrots/gfetch-full.png)
 
